@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1770104363.12554 "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" "CV-EN.pdf" "CV-EN" 1770104363.71466 0
-  "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" 1770104362.93426 6341 089c4bbd834bb9f4478aa836d9981596 ""
+["pdflatex"] 1770423467.11711 "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" "CV-EN.pdf" "CV-EN" 1770423467.72692 0
+  "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" 1770423466.93857 6422 c89c71bebe310b14ca4463e327fa4012 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -99,9 +99,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1733484464.28077 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1733484399 8221428 717966c586359d7806438735880c320c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CV-EN.aux" 1770104363.66605 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "CV-EN.out" 1770104363.49052 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV-EN.tex" 1770104362.93426 6341 089c4bbd834bb9f4478aa836d9981596 ""
+  "CV-EN.aux" 1770423467.67745 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "CV-EN.out" 1770423467.47313 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV-EN.tex" 1770423466.93857 6422 c89c71bebe310b14ca4463e327fa4012 ""
   "resume.cls" 1624080965.54665 4800 7d0890dd8b770ce0426136049ebec6c1 ""
   (generated)
   "CV-EN.aux"
