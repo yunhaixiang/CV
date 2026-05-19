@@ -3,6 +3,12 @@
 \usepackage[dvipsnames]{xcolor}
 \hypersetup{colorlinks,linkcolor=red}
 \definecolor{mypink1}{rgb}{0.858, 0.188, 0.478}
+\definecolor{skillExpert}{HTML}{0072B2}
+\definecolor{skillAdvanced}{HTML}{009E73}
+\definecolor{skillProficient}{HTML}{E69F00}
+\definecolor{skillFamiliar}{HTML}{CC79A7}
+\definecolor{skillBeginner}{HTML}{8A6F73}
+\newcommand{\skill}[2]{\textcolor{#1}{#2}}
 \usepackage{CJKutf8}
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
 \usepackage{mathpazo}
@@ -55,11 +61,20 @@ Email & \href{mailto:yxiang72@uwo.ca}{yxiang72@uwo.ca} (for encrypted emails: \h
 
 \begin{rSection}{Skills}
 
+\textit{Colored by level of mastery:
+\skill{skillExpert}{Expert},
+\skill{skillAdvanced}{Advanced},
+\skill{skillProficient}{Proficient},
+\skill{skillFamiliar}{Familiar},
+\skill{skillBeginner}{Beginner}}
+\vspace{-0.4em}
+
 \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-Languages & Mandarin (Native), English (Fluent), French (Beginner)\\
-Programming &  Python, C/C++, SQL, Lean\\
-Softwares & Git, LaTeX, Cinema 4D, SageMath\\
-Hobbies & Magic Tricks\\
+Languages & \skill{skillExpert}{Mandarin}, \skill{skillExpert}{English}, \skill{skillBeginner}{French}\\
+Programming &  \skill{skillAdvanced}{Python}, \skill{skillProficient}{SQL}, \skill{skillProficient}{Lean}, \skill{skillFamiliar}{C/C++}\\
+Libraries & \skill{skillFamiliar}{PyTorch} \\
+Softwares & \skill{skillAdvanced}{Git}, \skill{skillAdvanced}{LaTeX}, \skill{skillAdvanced}{SageMath}, \skill{skillProficient}{Cinema 4D}\\
+Hobbies & \skill{skillProficient}{Magic Tricks}\\
 
 \end{tabular}
 
@@ -123,7 +138,7 @@ Hobbies & Magic Tricks\\
         \item CALCULUS 1501, \textit{Calculus II for Mathematical and Physical Sciences}, Winter 2025, Winter 2026, Summer 2026
         \item MATH 1229, \textit{Methods of Matrix Algebra}, Summer 2024, Summer 2025
         \item MATH 1228, \textit{Methods of Finite Mathematics}, Summer 2024, Summer 2025
-        \item CALCULUS 1000, \textit{Calculus 1}, Winter 2024, Summer 2024, Winter 2025, Fall 2025, Winter 2026
+        \item CALCULUS 1000, \textit{Calculus I}, Winter 2024, Summer 2024, Winter 2025, Fall 2025, Winter 2026
     \end{rSubsection}
     \begin{rSubsection}{Mathematical Outreach Lectures}{}{Gave expository lectures to high school students or undergraduate students on advanced mathematical topics}{}
         \item {\em Surreal Numbers and the Game of Go}, Summer 2025, Western Summer Math Camp (Grade 10)
@@ -140,9 +155,10 @@ Hobbies & Magic Tricks\\
 
 \begin{rSection}{Service \& Volunteer Work} \itemsep -3pt
     \begin{rSubsection}{Seminar Organization}{}{Research or learning seminars organized or co-organized}{}
+        \item Algebraic Geometry Student Seminar, Summer 2026, 
         \item Algebraic Geometry Student Seminar, Winter 2026, co-organized with Alex Zwart
         \item Algebraic Geometry Student Seminar, Fall 2024, co-organized with Alex Zwart
-        \item Toric Varieties Learning Seminar, Summer 2024, co-organized with Nicolas Rieke
+        \item Toric Varieties Learning Seminar, Summer 2024, co-organized with Nikolas Rieke
     \end{rSubsection}
 \end{rSection}
 
