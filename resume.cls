@@ -104,6 +104,7 @@
   \item[]
 }{
   \end{list}
+  \vspace{0.2em}
 }
 
 %----------------------------------------------------------------------------------------
@@ -121,6 +122,16 @@
   }{
   \end{list}
   \vspace{0.5em} % Some space after the list of bullet points
+}
+
+% Education variant of rSubsection: institution/date, degree/location, optional details.
+\newcommand{\rSubsectionEducation}[5]{ % institution, date, degree, location, details
+	\begin{tabular}{@{}>{\raggedright\arraybackslash}p{\dimexpr\linewidth-14em\relax}@{}>{\raggedleft\arraybackslash}p{14em}@{}}
+	 {\bf #1} & {\em #2}\\
+	 {\em #3} & {\em #4}
+	\end{tabular}
+	\ifthenelse{\equal{#5}{}}{}{\par\vspace{-0.65\parskip}\noindent #5}
+	\par
 }
 
 % The below commands define the whitespace after certain things in the document - they can be \smallskip, \medskip or \bigskip

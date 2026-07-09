@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1783563502.54119 "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" "CV-EN.pdf" "CV-EN" 1783563503.20248 0
-  "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" 1783563502.30177 9304 0a74a709ee77e01509ec2b5dde5abbf5 ""
+["pdflatex"] 1783571211.43941 "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" "CV-EN.pdf" "CV-EN" 1783571212.09223 0
+  "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" 1783571211.24037 9752 bb23e906c0d9d4887295849b42eb0d7e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -8,6 +8,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm" 1136768653 1804 7b5f73028f6509167f47ace9d69509ed ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr8c.tfm" 1136768653 1348 0e8eb69b4437626c0f6c9bed4a4e373c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm" 1136768653 2796 d37c29814a6717720ee1a7c9a0b2c3b8 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplrc7t.tfm" 1136768653 1924 4e8f10ad274f98bba1199a16cd76d92e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm" 1136768653 1732 3671a0e54806deb8b706eb5e53aba0a5 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm" 1136768653 2720 70000d5e623e601132eab3cded5b819b ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu4e.tfm" 1198435261 1288 02bce64a038ecf122ed75de51b555288 ""
@@ -30,6 +31,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf" 1136768653 1380 798ef26de8f0a21f37c9b1147f4fe5d8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf" 1136768653 1380 037725697594405988999f61172f52de ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr8c.vf" 1136768653 3504 f65f653e1ad318a9d01b4af15300683a ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplrc7t.vf" 1136768653 1948 09d5081c2d7b4a35ebdef51e5c85d189 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf" 1136768653 1376 a5f9301e24d8e27c2286a3b415778d2d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/public/mathpazo/zplmr7y.vf" 1136768653 1372 31129ac1f6b6f62aaec24c8fed41b02b ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -99,10 +101,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1733484464.28077 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1733484399 8221428 717966c586359d7806438735880c320c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CV-EN.aux" 1783563503.1485 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "CV-EN.out" 1783563502.95254 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV-EN.tex" 1783563502.30177 9304 0a74a709ee77e01509ec2b5dde5abbf5 ""
-  "resume.cls" 1624080965.54665 4800 7d0890dd8b770ce0426136049ebec6c1 ""
+  "CV-EN.aux" 1783571212.03788 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "CV-EN.out" 1783571211.84687 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV-EN.tex" 1783571211.24037 9752 bb23e906c0d9d4887295849b42eb0d7e ""
+  "resume.cls" 1783570959.29327 5257 3017d415edce5a652d02e8c57599c8ef ""
   (generated)
   "CV-EN.aux"
   "CV-EN.log"

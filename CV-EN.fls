@@ -175,6 +175,7 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu98.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu4e.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/arphic/gbsnu/gbsnu6d.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplrc7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
@@ -192,6 +193,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/mathpazo/zplmr7y.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplrc7t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr8c.vf
 INPUT CV-EN.aux
 INPUT ./CV-EN.out
