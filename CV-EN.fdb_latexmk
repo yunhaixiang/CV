@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1786194609.08174 "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" "CV-EN.pdf" "CV-EN" 1786194609.89946 0
-  "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" 1786194608.86076 9730 ede8ad272487a9f32665c53b160c2ef8 ""
+["pdflatex"] 1786197365.07212 "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" "CV-EN.pdf" "CV-EN" 1786197365.84254 0
+  "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" 1786197364.86392 9784 514fff2e08f6f7aa6128c10e02760a35 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -25,6 +25,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1651520503 204258 177851ae99767090543ae24e73c92f2f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb" 1651520503 295323 d099723373a00cc17d5ae0c9738bb5b3 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb" 1136849748 9356 a3851bc942e9b6995883193472ba1847 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb" 1136849748 52406 dad2f72863a03727d5f536c64a69c452 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb" 1136849748 52665 661b1e6b26edb5f50dd491f8a701cb57 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb" 1136849748 50022 90249cba7e3e4e9845f80328d6f9bd13 ""
@@ -97,9 +98,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1733484464.28077 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1733484399 8221428 717966c586359d7806438735880c320c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CV-EN.aux" 1786194609.83849 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "CV-EN.out" 1786194609.598 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV-EN.tex" 1786194608.86076 9730 ede8ad272487a9f32665c53b160c2ef8 ""
+  "CV-EN.aux" 1786197365.78228 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "CV-EN.out" 1786197365.56122 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV-EN.tex" 1786197364.86392 9784 514fff2e08f6f7aa6128c10e02760a35 ""
   "resume.cls" 1783570959.29327 5257 3017d415edce5a652d02e8c57599c8ef ""
   (generated)
   "CV-EN.aux"
