@@ -2,7 +2,7 @@ PWD /Users/yunhai/Home/Repositories/CV
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT CV-EN.tex
+INPUT /Users/yunhai/Home/Repositories/CV/CV-EN.tex
 OUTPUT CV-EN.log
 INPUT ./resume.cls
 INPUT resume.cls
