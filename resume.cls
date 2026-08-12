@@ -99,7 +99,7 @@
   \sectionlineskip
   \hrule % Horizontal line
   \begin{list}{}{ % List for each individual item in the section
-    \setlength{\leftmargin}{1.5em} % Margin within the section
+    \setlength{\leftmargin}{0.9em} % Align section content with publications
   }
   \item[]
 }{
