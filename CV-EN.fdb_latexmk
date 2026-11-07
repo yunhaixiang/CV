@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1794078742.08248 "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" "CV-EN.pdf" "CV-EN" 1794078742.83134 0
-  "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" 1794078741.88929 10656 b15f3c9d41d2a668f3459aa6e595d682 ""
+["pdflatex"] 1794082338.42365 "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" "CV-EN.pdf" "CV-EN" 1794082339.22603 0
+  "/Users/yunhai/Home/Repositories/CV/CV-EN.tex" 1794082338.21651 10741 fbb83df7cabf454836383c78292cfb97 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -13,11 +13,13 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplrc7t.tfm" 1136768653 1924 4e8f10ad274f98bba1199a16cd76d92e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm" 1136768653 1732 3671a0e54806deb8b706eb5e53aba0a5 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm" 1136768653 2720 70000d5e623e601132eab3cded5b819b ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1651520503 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1622837620 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm" 1136768653 1032 7fa31d93ecd4cbdfac02c7a1ebc6facc ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmri.tfm" 1136768653 1148 56b0fdf7ca3f800294e968f64cfdcb87 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm" 1136768653 2080 40a71f65088bdd047622ce295520749e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm" 1136768653 1828 bb8add3bd19426549f9267c88b0cb8bd ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm" 1136768653 1012 955c4ca523d7827d33db91a33412b048 ""
@@ -34,6 +36,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr8c.vf" 1136768653 3504 f65f653e1ad318a9d01b4af15300683a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplrc7t.vf" 1136768653 1948 09d5081c2d7b4a35ebdef51e5c85d189 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf" 1136768653 1376 a5f9301e24d8e27c2286a3b415778d2d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/vf/public/mathpazo/zplmr7m.vf" 1136768653 1812 de7624743c8bafe2ce204bec2f72ce7e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/vf/public/mathpazo/zplmr7y.vf" 1136768653 1372 31129ac1f6b6f62aaec24c8fed41b02b ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -98,9 +101,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1733484464.28077 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1733484399 8221428 717966c586359d7806438735880c320c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CV-EN.aux" 1794078742.76373 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "CV-EN.out" 1794078742.48561 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV-EN.tex" 1794078741.88929 10656 b15f3c9d41d2a668f3459aa6e595d682 ""
+  "CV-EN.aux" 1794082339.15576 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "CV-EN.out" 1794082338.86809 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV-EN.tex" 1794082338.21651 10741 fbb83df7cabf454836383c78292cfb97 ""
   "resume.cls" 1786524581.66899 5271 6190aaa6f05377e4d03fea11b33f357c ""
   (generated)
   "CV-EN.aux"
